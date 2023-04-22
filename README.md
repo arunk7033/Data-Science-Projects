@@ -1,2 +1,2 @@
-# ineuron
-Ineuron class of python+sql 07-01-2023
+# Projects
+1. Stock price prediction using stacked LSTM
